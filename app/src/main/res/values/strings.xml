@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">NewsAppS1</string>
+    <string name="empty_view">No Articles found in this Category!</string>
+    <string name="no_internet_connection">No internet connection! \nCheck your Internet and try again!</string>
+    <string name="activity_label">The Guardian - Latest News</string>
+    <string name="settings_menu">Settings</string>
+    <string name="settings_title">Article Settings</string>
+    <string name="number_of_articles_label">Number of Articles</string>
+    <string name="number_of_articles_key" translatable="false">page-size</string>
+    <string name="number_of_articles_default_value" translatable="false">20</string>
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default_value" translatable="false">@string/settings_order_by_newest_value</string>
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+    <string name="settings_order_by_use_date_label">Publication Date</string>
+    <string name="settings_order_by_use_date_key">use-date</string>
+    <string name="settings_order_by_use_date_default_value">@string/settings_order_by_use_date_published_value</string>
+    <string name="settings_order_by_use_date_published_label">Last Published</string>
+    <string name="settings_order_by_use_date_published_value">published</string>
+    <string name="settings_order_by_first_publication_label">First Publication</string>
+    <string name="settings_order_by_first_publication_value" translatable="false">first-publication</string>
+    <string name="settings_order_by_last_modified_label">Last Modified</string>
+    <string name="settings_order_by_last_modified_value">last-modified</string>
+</resources>

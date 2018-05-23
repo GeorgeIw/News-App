@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="section_color">#cad1cb</color>
+    <color name="title_color">#9ca39d</color>
+    <color name="list_background">#404240</color>
+    <color name="divider_color">#edefed</color>
+    <color name="action_bar_background">#c10310</color>
+    <color name="divider_color_2">#c10310</color>
+    <color name="progress_bar_white">#ffffff</color>
+</resources>
