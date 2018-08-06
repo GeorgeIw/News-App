@@ -8,7 +8,7 @@
         android:inputType="number"
         android:key="@string/number_of_articles_key"
         android:selectAllOnFocus="true"
-        android:title="@string/number_of_articles_label"/>
+        android:title="@string/number_of_articles_label" />
 
     <ListPreference
         android:defaultValue="@string/settings_order_by_default_value"

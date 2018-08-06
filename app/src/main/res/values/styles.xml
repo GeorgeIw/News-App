@@ -5,6 +5,6 @@
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/action_bar_background</item>
         <item name="colorPrimaryDark">@color/list_background</item>
-        <item name="colorAccent">@color/progress_bar_white</item>
+        <item name="colorAccent">@android:color/darker_gray</item>
     </style>
 </resources>

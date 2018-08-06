@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity
     private TextView EmptyTextView;
     private ArticlesAdapter adapter;
     private static final String LOG_TAG = MainActivity.class.getName();
-    private static final String GUARDIAN_LATEST_NEWS_URL = "http://content.guardianapis.com/search";
+    private static final String GUARDIAN_LATEST_NEWS_URL = "https://content.guardianapis.com/search";
     private static final int LOADER_VALUE = 0;
 
     @Override
@@ -110,6 +110,7 @@ public class MainActivity extends AppCompatActivity
         uriBuilder.appendQueryParameter("show-tags", "contributor");
         uriBuilder.appendQueryParameter("api-key", "test");
         //create a new loader for the given URL
+        //Log.i(LOG_TAG,uriBuilder.toString());
         return new ArticlesLoader(this, uriBuilder.toString());
     }
 

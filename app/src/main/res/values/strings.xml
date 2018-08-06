@@ -4,12 +4,12 @@
     <string name="no_internet_connection">No internet connection! \nCheck your Internet and try again!</string>
     <string name="activity_label">The Guardian - Latest News</string>
     <string name="settings_menu">Settings</string>
-    <string name="settings_title">Article Settings</string>
+    <string name="settings_title">Settings</string>
     <string name="number_of_articles_label">Number of Articles</string>
-    <string name="number_of_articles_key" translatable="false">page-size</string>
+    <string name="number_of_articles_key" translatable="false">page_size</string>
     <string name="number_of_articles_default_value" translatable="false">20</string>
     <string name="settings_order_by_label">Order By</string>
-    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_key" translatable="false">order-by</string>
     <string name="settings_order_by_default_value" translatable="false">@string/settings_order_by_newest_value</string>
     <string name="settings_order_by_newest_label">Newest</string>
     <string name="settings_order_by_newest_value" translatable="false">newest</string>
